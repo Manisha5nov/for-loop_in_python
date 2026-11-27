@@ -1,0 +1,14 @@
+products = {
+    "Laptop": 45000,
+    "Mobile": 15000,
+    "Keyboard": 800,
+    "Mouse": 500
+}
+
+for name, price in products.items():
+    print(name, "=", price)products = {
+    "Laptop": 45000,
+    "Mobile": 15000,
+    "Keyboard": 800,
+    "Mouse": 500
+}
